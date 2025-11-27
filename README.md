@@ -1,5 +1,4 @@
-# Aaron Finnilä
-## IT Student at University of Turku
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&duration=3000&pause=3000&color=9BF7F0&background=5D47FF00&width=435&lines=Aaron+Finnil%C3%A4;IT+Student+at+University+of+Turku)](https://git.io/typing-svg)
 
 # Currently learning:
 - C programming
